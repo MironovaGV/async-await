@@ -31,7 +31,7 @@
   "homepage": "https://github.com/MironovaGV/async-await#readme",
   "dependencies": {
     "core-js": "^3.6.5",
-    "lint": "^0.7.0"
+    "lint": "^0.8.8"
   },
   "description": ""
 }
